@@ -54,6 +54,17 @@ Mobile-friendly layouts ensure accessibility for users on-the-go.
 
 A professional, intuitive interface builds trust in the platform.
 
+Project Roles and Responsibilities
+Role	Responsibilities
+Project Manager	Oversees project progress, manages timelines, coordinates between teams, and ensures goals are met.
+Frontend Developers	Implement the user interface using HTML, CSS, and JavaScript. Ensure responsiveness and accessibility.
+Backend Developers	(Future phase) Build APIs, manage data storage, authentication, and business logic.
+Designers	Create wireframes, prototypes, and visual assets. Define color palettes, typography, and layout guidelines.
+QA/Testers	Test the application for bugs, usability issues, and ensure features meet acceptance criteria.
+DevOps Engineers	Set up CI/CD pipelines, manage deployments, and ensure the app runs smoothly in production.
+Product Owner	Defines product vision, prioritizes features, and ensures the app meets user needs.
+Scrum Master	Facilitates agile processes, removes blockers, and ensures effective communication within the team.
+
 ## How to Run
 1. Clone the repository:
    ```bash
