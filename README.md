@@ -65,6 +65,21 @@ DevOps Engineers	Set up CI/CD pipelines, manage deployments, and ensure the app 
 Product Owner	Defines product vision, prioritizes features, and ensures the app meets user needs.
 Scrum Master	Facilitates agile processes, removes blockers, and ensures effective communication within the team.
 
+UI Component Patterns
+Planned Components
+
+Navbar: Contains logo, search bar, and user profile menu.
+
+Property Card: Displays property image, title, location, price, and rating.
+
+Filters Panel: Allows filtering by price, location, and number of guests.
+
+Footer: Contains navigation links, contact information, and social media icons.
+
+Search Bar: Provides quick property search with suggestions.
+
+Booking Button: A reusable call-to-action button for starting the reservation process.
+
 ## How to Run
 1. Clone the repository:
    ```bash
